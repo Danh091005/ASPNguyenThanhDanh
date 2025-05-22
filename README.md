@@ -21,7 +21,6 @@ Giải mã:
 Dữ liệu được giải mã và loại bỏ padding.
 Kết quả giải mã được lưu vào file mới, không có đuôi .enc.
 
-
 2. Quy trình hoạt động
 Mở ứng dụng: Người dùng truy cập vào địa chỉ ứng dụng.
 Nhập thông tin: Nhập khóa và chọn file.
