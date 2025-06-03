@@ -1,4 +1,4 @@
-# ASPNguyenThanhDanh
+# AESNguyenThanhDanh
 ![image](https://github.com/user-attachments/assets/eed1648a-d289-4944-80f8-8601a4fce527)
 
 cách thức hoạt động của chức năng và giao diện trong ứng dụng mã hóa và giải mã file AES:
